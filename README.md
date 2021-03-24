@@ -23,3 +23,13 @@ https://github.com/ProgYaghouti/irfont/Mikhak/Mikhak-Black.ttf<br>
 to a hostname of the CDN service JSDelivr:<br>
 https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Black.ttf<br>
 ...your files are available from the CDN just like so 😊.
+## install Font with Css
+@font-face {<br>
+  font-family: Vazir;<br>
+  src: url(https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.ttf);<br>
+  font-weight: 100;<br>
+}
+#### use font for TEXT class name
+.TEXT {<br>
+  font-family: Vazir;<br>
+}<br>
