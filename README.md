@@ -10,16 +10,16 @@ Arrange fonts by Size and Name : <br>
 700 - Bold<br>
 900 - Black<br>
 ## Support Browser
-Font format
-TTF/OTF	✅   All Browser Supported
-WOFF    ✅	  All Browser Supported
-WOFF2   ✅	  All Browser Supported
-SVG     📲   Only iOS browsers are supported
-EOT     e    Only Edge browser supported
+Font format<br>
+TTF/OTF	✅   All Browser Supported<br>
+WOFF    ✅	  All Browser Supported<br>
+WOFF2   ✅	  All Browser Supported<br>
+SVG     📲   Only iOS browsers are supported<br>
+EOT     e    Only Edge browser supported<br>
 # How To Use ?
-The description of each font folder is given, but in general:
-What those two have in common is that by changing the hostname in a github link, for example:
-https://github.com/ProgYaghouti/irfont/Mikhak/Mikhak-Black.ttf
-to a hostname of the CDN service JSDelivr:
-https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Black.ttf
+The description of each font folder is given, but in general:<br>
+What those two have in common is that by changing the hostname in a github link, for example:<br>
+https://github.com/ProgYaghouti/irfont/Mikhak/Mikhak-Black.ttf<br>
+to a hostname of the CDN service JSDelivr:<br>
+https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Black.ttf<br>
 ...your files are available from the CDN just like so 😊.
