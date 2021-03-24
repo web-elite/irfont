@@ -3,10 +3,11 @@ This repository is made to access Persian fonts.
 # Information about web fonts
 Arrange fonts by Size and Name : <br>
 100 - Thin<br>
+200 - Ultra Light<br>
 300 - Light<br>
 400 - Regular OR Normal<br>
 500 - Medium<br>
-600 - Semi-bold<br>
+600 - Semi-bold OR Demi-Bold<br>
 700 - Bold<br>
 900 - Black<br>
 ## Support Browser
