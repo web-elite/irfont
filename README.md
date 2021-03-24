@@ -16,7 +16,7 @@ WOFF    ✅	  All Browser Supported<br>
 WOFF2   ✅	  All Browser Supported<br>
 SVG     📲   Only iOS browsers are supported<br>
 EOT     e    Only Edge browser supported<br>
-# How To Use ?
+# How To Use Github repository as cdn ?
 The description of each font folder is given, but in general:<br>
 What those two have in common is that by changing the hostname in a github link, for example:<br>
 https://github.com/ProgYaghouti/irfont/Mikhak/Mikhak-Black.ttf<br>
@@ -29,7 +29,7 @@ https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Black.ttf<br>
   src: url(https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.ttf);<br>
   font-weight: 100;<br>
 }
-#### use font for TEXT class name
+## How To Use Font For TEXT class name
 .TEXT {<br>
   font-family: Vazir;<br>
 }<br>
