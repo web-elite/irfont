@@ -5,7 +5,7 @@
 ----------------------------Weight: Normal ----------------------------
 
 WOFF File : https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff<br>
-WOFF2 File : https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff2<br><br>
+WOFF2 File : https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff2<br>
 TTF File : https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.ttf<br>
 EOT File : https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.eot<br>
 
