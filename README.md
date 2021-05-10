@@ -9,6 +9,7 @@ Arrange fonts by Size and Name : <br>
 500 - Medium<br>
 600 - Semi-bold OR Demi-Bold<br>
 700 - Bold<br>
+800 - ExtraBold<br>
 900 - Black<br>
 ## Support Browser
 Font format<br>
