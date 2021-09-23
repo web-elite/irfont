@@ -1,356 +1,315 @@
 /* Mikhak */
 @font-face {
-	font-family: 'Mikhak';
+	font-family: "Mikhak";
 	font-style: normal;
 	font-weight: bold;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Bold.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Bold.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Bold.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Bold.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Mikhak';
+	font-family: "Mikhak";
 	font-style: normal;
 	font-weight: 900;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Black.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Black.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Black.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Black.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Mikhak';
+	font-family: "Mikhak";
 	font-style: normal;
 	font-weight: 100;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Thin.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Thin.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Thin.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Thin.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Mikhak';
+	font-family: "Mikhak";
 	font-style: normal;
 	font-weight: 300;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Light.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Light.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Light.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Mikhak-Light.ttf") format("truetype");
 }
 /* Shabnam */
 @font-face {
-	font-family: 'Shabnam';
+	font-family: "Shabnam";
 	font-style: normal;
 	font-weight: bold;
-	font-display: auto;
-	src:	url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.ttf') format('truetype');
+	src:	url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Shabnam';
+	font-family: "Shabnam";
 	font-style: normal;
 	font-weight: 300;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Light.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Light.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/ProgYaghouti/irfont/shabnam/Shabnam-Light.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Light.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Light.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/ProgYaghouti/irfont/shabnam/Shabnam-Light.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Shabnam';
+	font-family: "Shabnam";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.ttf") format("truetype");
 }
 /* Vazir */
 @font-face {
-	font-family: 'Vazir';
+	font-family: "Vazir";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Vazir';
+	font-family: "Vazir";
 	font-style: normal;
 	font-weight: bold;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.eot");
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.eot?#iefix") format("embedded-opentype"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Bold.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Vazir';
+	font-family: "Vazir";
 	font-style: normal;
 	font-weight: 300;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Vazir';
+	font-family: "Vazir";
 	font-style: normal;
 	font-weight: 500;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Vazir';
+	font-family: "Vazir";
 	font-style: normal;
 	font-weight: 100;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.ttf") format("truetype");
 }
 /* Samim */
 @font-face {
-	font-family: 'Samim';
+	font-family: "Samim";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Samim';
+	font-family: "Samim";
 	font-style: normal;
 	font-weight: bold;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.ttf") format("truetype");
 }
 /* Yekan */
 @font-face {
-	font-family: 'Yekan';
+	font-family: "Yekan";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.ttf") format("truetype");
 }
 /* Iran s */
 @font-face {
-	font-family: 'IRsans';
+	font-family: "IRsans";
 	font-style: normal;
 	font-weight: bold;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.Woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.Woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'IRsans';
+	font-family: "IRsans";
 	font-style: normal;
 	font-weight: 200;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'IRsans';
+	font-family: "IRsans";
 	font-style: normal;
 	font-weight: 100;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'IRsans';
+	font-family: "IRsans";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'IRsans';
+	font-family: "IRsans";
 	font-style: normal;
 	font-weight: 500;
-	font-display: auto;
-	src:url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.ttf') format('truetype');
+	src:url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'IRsans';
+	font-family: "IRsans";
 	font-style: normal;
 	font-weight: 900;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.ttf") format("truetype");
 }
 /* Aviny */
 @font-face {
-	font-family: 'Aviny';
+	font-family: "Aviny";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/aviny/aviny-web.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/aviny/aviny-web.woff') format('woff');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/aviny/aviny-web.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/aviny/aviny-web.woff") format("woff");
 }
 /* Maneli */
 @font-face {
-	font-family: 'Maneli';
+	font-family: "Maneli";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/maneli/Maneli.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/maneli/Maneli.ttf") format("truetype");
 }
 /* Pelak */
 @font-face {
-	font-family: 'Pelak';
+	font-family: "Pelak";
 	font-style: normal;
 	font-weight: 900;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Black.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Black.woff') format('woff');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Black.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Black.woff") format("woff");
 }
 @font-face {
-	font-family: 'Pelak';
+	font-family: "Pelak";
 	font-style: normal;
 	font-weight: bold;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Bold.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Bold.woff') format('woff');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Bold.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Bold.woff") format("woff");
 }
 @font-face {
-	font-family: 'Pelak';
+	font-family: "Pelak";
 	font-style: normal;
 	font-weight: 100;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Thin.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Thin.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Pelak';
+	font-family: "Pelak";
 	font-style: normal;
 	font-weight: 600;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-SemiBold.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-SemiBold.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Pelak';
+	font-family: "Pelak";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Regular.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Regular.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Pelak';
+	font-family: "Pelak";
 	font-style: normal;
 	font-weight: 800;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-ExtraBold.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-ExtraBold.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Pelak';
+	font-family: "Pelak";
 	font-style: normal;
 	font-weight: 200;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-light.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-light.ttf") format("truetype");
 }
 @font-face {
-	font-family: 'Pelak';
+	font-family: "Pelak";
 	font-style: normal;
 	font-weight: 500;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Medium.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/pelak/PelakFA-Medium.ttf") format("truetype");
 }
 /* Vanda */
 @font-face {
-	font-family: 'Vanda';
+	font-family: "Vanda";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/Vandafanum-Regular.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/Vandafanum-Regular.woff') format('woff');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/Vandafanum-Regular.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/Vandafanum-Regular.woff") format("woff");
 }
 @font-face {
-	font-family: 'Vanda';
+	font-family: "Vanda";
 	font-style: normal;
 	font-weight: 500;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/VandaFanum-Medium.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/VandaFanum-Medium.woff') format('woff');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/VandaFanum-Medium.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/VandaFanum-Medium.woff") format("woff");
 }
 @font-face {
-	font-family: 'Vanda';
+	font-family: "Vanda";
 	font-style: normal;
 	font-weight: 300;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/VandaFanum-Light.woff2') format('woff2'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/VandaFanum-Light.woff') format('woff');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/VandaFanum-Light.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vanda/VandaFanum-Light.woff") format("woff");
 }
 /* Progy Font */
 @font-face {
-	font-family: 'iSans';
+	font-family: "iSans";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/progy/iSans.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/progy/iSans.ttf") format("truetype");
 }
 /* Sarbazy */
 @font-face {
-	font-family: 'BoldTori';
+	font-family: "BoldTori";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/progy/Sarbaz.ttf') format('truetype');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/progy/Sarbaz.ttf") format("truetype");
 }
 /* Kalame */
 @font-face {
-	font-family: 'Kalame';
+	font-family: "Kalame";
 	font-style: normal;
 	font-weight: 900;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Black.ttf') format('truetype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff2') format('woff2');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Black.ttf") format("truetype"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff2") format("woff2");
 }
 /* Kalame */
 @font-face {
-	font-family: 'Kalame';
+	font-family: "Kalame";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Black.ttf') format('truetype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff2') format('woff2');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Black.ttf") format("truetype"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff2") format("woff2");
 }
 @font-face {
-	font-family: 'Kalame';
+	font-family: "Kalame";
 	font-style: normal;
 	font-weight: normal;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Regular.ttf') format('truetype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Regular.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Regular.woff2') format('woff2');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Regular.ttf") format("truetype"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Regular.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Regular.woff2") format("woff2");
 }
 @font-face {
-	font-family: 'Kalame';
+	font-family: "Kalame";
 	font-style: normal;
 	font-weight: 100;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Thin.ttf') format('truetype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Thin.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Thin.woff2') format('woff2');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Thin.ttf") format("truetype"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Thin.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Thin.woff2") format("woff2");
 }
 @font-face {
-	font-family: 'Kalame';
+	font-family: "Kalame";
 	font-style: normal;
 	font-weight: Bold;
-	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Bold.ttf') format('truetype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Bold.woff') format('woff'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Bold.woff2') format('woff2');
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Bold.ttf") format("truetype"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Bold.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Bold.woff2") format("woff2");
 }
