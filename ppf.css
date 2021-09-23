@@ -37,9 +37,7 @@
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.woff2') format('woff2'),
+	src:	url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Bold.ttf') format('truetype');
 }
@@ -48,9 +46,7 @@
 	font-style: normal;
 	font-weight: 300;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Light.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Light.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Light.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Light.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam-Light.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/ProgYaghouti/irfont/shabnam/Shabnam-Light.ttf') format('truetype');
 }
@@ -59,9 +55,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/shabnam/Shabnam.ttf') format('truetype');
 }
@@ -71,9 +65,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir.ttf') format('truetype');
 }
@@ -93,9 +85,7 @@
 	font-style: normal;
 	font-weight: 300;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.ttf') format('truetype');
 }
@@ -104,9 +94,7 @@
 	font-style: normal;
 	font-weight: 500;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.ttf') format('truetype');
 }
@@ -115,9 +103,7 @@
 	font-style: normal;
 	font-weight: 100;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.ttf') format('truetype');
 }
@@ -127,9 +113,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim.ttf') format('truetype');
 }
@@ -138,9 +122,7 @@
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/samim/Samim-Bold.ttf') format('truetype');
 }
@@ -150,9 +132,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.woff') format('woff'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.ttf') format('truetype');
 }
 /* Iran s */
@@ -161,9 +141,7 @@
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.eot?#iefix') format('embedded-opentype'),
-	url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.Woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.ttf') format('truetype');
 }
@@ -172,9 +150,7 @@
 	font-style: normal;
 	font-weight: 200;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.eot?#iefix') format('embedded-opentype'),
-	url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.ttf') format('truetype');
 }
@@ -183,9 +159,7 @@
 	font-style: normal;
 	font-weight: 100;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.eot?#iefix') format('embedded-opentype'),
-	url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.ttf') format('truetype');
 }
@@ -194,9 +168,7 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.eot?#iefix') format('embedded-opentype'),
-		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.woff2') format('woff2'),
+	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.ttf') format('truetype');
 }
@@ -205,9 +177,7 @@
 	font-style: normal;
 	font-weight: 500;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.eot?#iefix') format('embedded-opentype'),
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.woff2') format('woff2'),
+	src:url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.ttf') format('truetype');
 }
@@ -216,8 +186,6 @@
 	font-style: normal;
 	font-weight: 900;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/yekan/Yekan.eot?#iefix') format('embedded-opentype'),
 	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.woff2') format('woff2'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.ttf') format('truetype');
@@ -345,8 +313,6 @@
 	font-style: normal;
 	font-weight: 900;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Black.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Black.eot?#iefix') format('embedded-opentype'),
 	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Black.ttf') format('truetype'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff2') format('woff2');
@@ -357,8 +323,6 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.eot?#iefix') format('embedded-opentype'),
 	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Black.ttf') format('truetype'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Black.woff2') format('woff2');
@@ -368,8 +332,6 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Regular.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Regular.eot?#iefix') format('embedded-opentype'),
 	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Regular.ttf') format('truetype'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Regular.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Regular.woff2') format('woff2');
@@ -379,8 +341,6 @@
 	font-style: normal;
 	font-weight: 100;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Thin.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Thin.eot?#iefix') format('embedded-opentype'),
 	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Thin.ttf') format('truetype'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Thin.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Thin.woff2') format('woff2');
@@ -390,8 +350,6 @@
 	font-style: normal;
 	font-weight: Bold;
 	font-display: auto;
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Bold.eot');
-	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Bold.eot?#iefix') format('embedded-opentype'),
 	src: url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/Kalameh(FaNum)-Bold.ttf') format('truetype'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Bold.woff') format('woff'),
 		url('https://cdn.jsdelivr.net/gh/progyaghouti/irfont/kalame/KalamehWeb(FaNum)-Bold.woff2') format('woff2');
