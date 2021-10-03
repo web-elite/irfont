@@ -75,25 +75,25 @@
 	font-family: "Vazir";
 	font-style: normal;
 	font-weight: 300;
-	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.woff2") format("woff2"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.woff") format("woff"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Light.ttf") format("truetype");
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Light.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Light.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Light.ttf") format("truetype");
 }
 @font-face {
 	font-family: "Vazir";
 	font-style: normal;
 	font-weight: 500;
-	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.woff2") format("woff2"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.woff") format("woff"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Medium.ttf") format("truetype");
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Medium.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Medium.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Medium.ttf") format("truetype");
 }
 @font-face {
 	font-family: "Vazir";
 	font-style: normal;
 	font-weight: 100;
-	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.woff2") format("woff2"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.woff") format("woff"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Vazir-Thin.ttf") format("truetype");
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Thin.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Thin.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/vazir/Vazir-Thin.ttf") format("truetype");
 }
 /* Samim */
 @font-face {
