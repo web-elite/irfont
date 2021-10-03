@@ -125,49 +125,49 @@
 	font-family: "IRsans";
 	font-style: normal;
 	font-weight: bold;
-	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.woff2") format("woff2"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.Woff") format("woff"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Bold.ttf") format("truetype");
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Bold.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Bold.Woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Bold.ttf") format("truetype");
 }
 @font-face {
 	font-family: "IRsans";
 	font-style: normal;
 	font-weight: 200;
-	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.woff2") format("woff2"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.woff") format("woff"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Light.ttf") format("truetype");
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Light.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Light.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Light.ttf") format("truetype");
 }
 @font-face {
 	font-family: "IRsans";
 	font-style: normal;
 	font-weight: 100;
-	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.woff2") format("woff2"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.woff") format("woff"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_UltraLight.ttf") format("truetype");
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_UltraLight.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_UltraLight.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_UltraLight.ttf") format("truetype");
 }
 @font-face {
 	font-family: "IRsans";
 	font-style: normal;
 	font-weight: normal;
-	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.woff2") format("woff2"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.woff") format("woff"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb.ttf") format("truetype");
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb.ttf") format("truetype");
 }
 @font-face {
 	font-family: "IRsans";
 	font-style: normal;
 	font-weight: 500;
-	src:url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.woff2") format("woff2"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.woff") format("woff"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Medium.ttf") format("truetype");
+	src:url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Medium.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Medium.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Medium.ttf") format("truetype");
 }
 @font-face {
 	font-family: "IRsans";
 	font-style: normal;
 	font-weight: 900;
-	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.woff2") format("woff2"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.woff") format("woff"),
-		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/IRsans/IRANSansWeb_Black.ttf") format("truetype");
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Black.woff2") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Black.woff") format("woff"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Black.ttf") format("truetype");
 }
 /* Aviny */
 @font-face {
