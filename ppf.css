@@ -278,7 +278,7 @@
   font-weight: bold;
   src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Bold.woff2")
       format("woff2"),
-    url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Bold.Woff")
+    url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Bold.woff")
       format("woff"),
     url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/iran-s/IRANSansWeb_Bold.ttf")
       format("truetype");
