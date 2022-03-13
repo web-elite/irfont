@@ -1,3 +1,60 @@
+
+@font-face {
+	font-family: "Moraba";
+	font-style: normal;
+	font-weight: 900;
+	src:url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Morabba-Black.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Moraba";
+	font-style: normal;
+	font-weight: 800;
+	src:url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Morabba-ExtraBold.ttf") format("truetype"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Morabba-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Moraba";
+	font-style: normal;
+	font-weight: 700;
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/moraba/Morabba-Bold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Moraba";
+	font-style: normal;
+	font-weight: 600;
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/moraba/Morabba-SemiBold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Moraba";
+	font-style: normal;
+	font-weight: 500;
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/moraba/Morabba-Medium.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Moraba";
+	font-style: normal;
+	font-weight: 400;
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/moraba/Morabba-Regular.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Moraba";
+	font-style: normal;
+	font-weight: 300;
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/moraba/Morabba-Light.ttf") format("truetype"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/moraba/Morabba-Light.woff2") format("woff2");
+}
+
+
+@font-face {
+	font-family: "Moraba";
+	font-style: normal;
+	font-weight: 900;
+	src: url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/moraba/Morabba-ExtraBold.woff") format("woff2"),
+		url("https://cdn.jsdelivr.net/gh/progyaghouti/irfont/mikhak/Morabba-ExtraBold.woff") format("truetype");
+}
+
 @font-face {
 	font-family: "Mikhak";
 	font-style: normal;
